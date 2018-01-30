@@ -1,1 +1,2 @@
 This is new sample file from GitHub site
+Added new Line
